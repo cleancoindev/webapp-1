@@ -70,7 +70,7 @@
     "vuex-class-component": "^2.3.3",
     "vuex-router-sync": "^5.0.0",
     "waait": "^1.0.5",
-    "web3": "^1.2.11"
+    "web3": "^1.7.3"
   },
   "devDependencies": {
     "@types/webpack": "^4.39.1",
